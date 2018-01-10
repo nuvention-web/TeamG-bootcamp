@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('my-test-app App', () => {
+describe('nuwebboot1 App', () => {
   let page: AppPage;
 
   beforeEach(() => {
